@@ -13,7 +13,7 @@ const services = [
   {title:"Ration Card Services", image:"assets/services/service3.svg", text:"নতুন রেশন কার্ড আবেদন, সংশোধন এবং অন্যান্য রেশন সংক্রান্ত কাজ।"},
   {title:"Census 2027", image:"assets/services/service4.svg", text:"জনগণনা ২০২৭ সংক্রান্ত অনলাইন কাজ ও সহায়তা।"},
   {title:"Scholarship & Education", image:"assets/services/service5.svg", text:"স্কলারশিপ ও শিক্ষা সংক্রান্ত খবর, আবেদন এবং অনলাইন সহায়তা।"},
-  {title:"Kisan Bandhu", image:"assets/services/service6.svg", text:"কৃষক বন্ধু সংক্রান্ত কাজ ও অনলাইন সহায়তা।"},
+  {title:"Kisan Bandhu", image:"assets/services/service6.svg", text:"কৃষক বন্ধু সংক্রান্ত কাজ ও অনলাইন সহায়তা।"},file_0000000046948211b12a03f7f9938713.png
   {title:"Pension Services", image:"assets/services/service7.svg", text:"পেনশন সংক্রান্ত ডকুমেন্ট জমা ও অন্যান্য ডিজিটাল পরিষেবা।"},
   {title:"Voter PVC Card", image:"assets/services/service8.svg", text:"ভোটার কার্ড সংক্রান্ত কাজ ও PVC Card Printing।"},
   {title:"PAN Card Update", image:"assets/services/service9.svg", text:"PAN কার্ড আপডেট, সংশোধন ও সম্পর্কিত অনলাইন পরিষেবা।"},
