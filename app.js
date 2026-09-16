@@ -1,7 +1,7 @@
 const HERO_SECONDS = 12; // 10, 12, 15... আপনার পছন্দমতো বদলাতে পারবেন
 
 const heroImages = [
-  "assets/hero/slide1.jpg",
+  "assets/hero/slide1.IMG_20260913_010841_398.jpg",
   "assets/hero/slide2.svg",
   "assets/hero/slide3.svg",
   "assets/hero/slide4.svg"
